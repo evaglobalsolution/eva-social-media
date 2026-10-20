@@ -1,302 +1,308 @@
 [
- {
-  "day": 1,
-  "date": "2026-10-20",
-  "kind": "image",
-  "media": [
-   "tips/t01_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #01 💡\nTurn on 2FA for your business email today.\nIt stops most account takeovers, even if your password leaks.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 2,
-  "date": "2026-10-21",
-  "kind": "image",
-  "media": [
-   "tips/t02_ship.jpg"
-  ],
-  "caption": "Trade Tip #02 💡\nAsk for the HS code before you pay your supplier.\nIt decides your duty. Knowing it early avoids surprises.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 3,
-  "date": "2026-10-22",
-  "kind": "image",
-  "media": [
-   "tips/t03_travel.jpg"
-  ],
-  "caption": "Travel Tip #03 💡\nGorilla trekking needs a permit booked in advance.\nPlan your trip around the permit date, not the other way round.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 4,
-  "date": "2026-10-23",
-  "kind": "image",
-  "media": [
-   "tips/t04_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #04 💡\nNever reuse your email password anywhere else.\nOne leaked site can unlock every account you own.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 5,
-  "date": "2026-10-24",
-  "kind": "image",
-  "media": [
-   "tips/t05_ship.jpg"
-  ],
-  "caption": "Trade Tip #05 💡\nKeep invoice, packing list and B/L identical.\nSmall mismatches are the No.1 reason cargo gets held.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 6,
-  "date": "2026-10-25",
-  "kind": "image",
-  "media": [
-   "tips/t06_travel.jpg"
-  ],
-  "caption": "Travel Tip #06 💡\nCarry your yellow fever certificate.\nMany East African borders ask for it on arrival.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 7,
-  "date": "2026-10-26",
-  "kind": "image",
-  "media": [
-   "tips/t07_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #07 💡\nUpdate your phone and laptop this week.\nUpdates close security holes that attackers already know.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 8,
-  "date": "2026-10-27",
-  "kind": "image",
-  "media": [
-   "tips/t08_ship.jpg"
-  ],
-  "caption": "Trade Tip #08 💡\nStart customs paperwork while goods are at sea.\nEvery day at the port adds storage fees.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 9,
-  "date": "2026-10-28",
-  "kind": "image",
-  "media": [
-   "tips/t09_travel.jpg"
-  ],
-  "caption": "Travel Tip #09 💡\nDry seasons: Jun–Sep and Dec–Feb.\nEasier trails, better wildlife viewing, clearer photos.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 10,
-  "date": "2026-10-29",
-  "kind": "image",
-  "media": [
-   "tips/t10_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #10 💡\nBanks never ask for your PIN by SMS or call.\nIf they do, it's a scam. Hang up and call the bank yourself.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 11,
-  "date": "2026-10-30",
-  "kind": "image",
-  "media": [
-   "tips/t11_ship.jpg"
-  ],
-  "caption": "Trade Tip #11 💡\nDeclare the true value of your goods.\nCustoms compares market prices. Under-declaring means fines.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 12,
-  "date": "2026-10-31",
-  "kind": "image",
-  "media": [
-   "tips/t12_travel.jpg"
-  ],
-  "caption": "Travel Tip #12 💡\nOne East Africa Tourist Visa = 3 countries.\nRwanda, Uganda and Kenya on a single visa.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 13,
-  "date": "2026-11-01",
-  "kind": "image",
-  "media": [
-   "tips/t13_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #13 💡\nBack up your files every week.\n3 copies, 2 types of storage, 1 kept offline.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 14,
-  "date": "2026-11-02",
-  "kind": "image",
-  "media": [
-   "tips/t14_ship.jpg"
-  ],
-  "caption": "Trade Tip #14 💡\nInsure your cargo, every time.\nCover costs little next to the value of your goods.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 15,
-  "date": "2026-11-03",
-  "kind": "image",
-  "media": [
-   "tips/t15_travel.jpg"
-  ],
-  "caption": "Travel Tip #15 💡\nPack neutral colours for safari.\nDark blue and black attract tsetse flies in the bush.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 16,
-  "date": "2026-11-04",
-  "kind": "image",
-  "media": [
-   "tips/t16_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #16 💡\nPublic Wi-Fi? Skip banking and logins.\nUse mobile data for anything sensitive.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 17,
-  "date": "2026-11-05",
-  "kind": "image",
-  "media": [
-   "tips/t17_ship.jpg"
-  ],
-  "caption": "Trade Tip #17 💡\nCheck if your product needs a permit first.\nFood, medicine and electronics often do.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 18,
-  "date": "2026-11-06",
-  "kind": "image",
-  "media": [
-   "tips/t18_travel.jpg"
-  ],
-  "caption": "Travel Tip #18 💡\nAsk before photographing people.\nRespect goes a long way, and it makes better photos.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 19,
-  "date": "2026-11-07",
-  "kind": "image",
-  "media": [
-   "tips/t19_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #19 💡\nLock your phone with a PIN, not just a swipe.\nA lost phone is an open door to your business accounts.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 20,
-  "date": "2026-11-08",
-  "kind": "image",
-  "media": [
-   "tips/t20_ship.jpg"
-  ],
-  "caption": "Trade Tip #20 💡\nCompare total landed cost, not freight only.\nThe cheapest freight quote is rarely the cheapest shipment.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 21,
-  "date": "2026-11-09",
-  "kind": "image",
-  "media": [
-   "tips/t21_travel.jpg"
-  ],
-  "caption": "Travel Tip #21 💡\nBook lodges early for July and August.\nPeak season fills up months in advance.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 22,
-  "date": "2026-11-10",
-  "kind": "image",
-  "media": [
-   "tips/t22_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #22 💡\nTrain your team to spot phishing.\nMost breaches start with one click on a fake email.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 23,
-  "date": "2026-11-11",
-  "kind": "image",
-  "media": [
-   "tips/t23_ship.jpg"
-  ],
-  "caption": "Trade Tip #23 💡\nAgree Incoterms in writing with your supplier.\nFOB, CIF or DAP decides who pays for what.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 24,
-  "date": "2026-11-12",
-  "kind": "image",
-  "media": [
-   "tips/t24_travel.jpg"
-  ],
-  "caption": "Travel Tip #24 💡\nLake Kivu is the perfect weekend escape.\nA few hours from Kigali: beaches, boats and sunsets.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 25,
-  "date": "2026-11-13",
-  "kind": "image",
-  "media": [
-   "tips/t25_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #25 💡\nUse a password manager.\nLong, unique passwords for every account, without memorising them.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 26,
-  "date": "2026-11-14",
-  "kind": "image",
-  "media": [
-   "tips/t26_ship.jpg"
-  ],
-  "caption": "Trade Tip #26 💡\nTrack your shipment at every step.\nKnow where your goods are before problems start.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 27,
-  "date": "2026-11-15",
-  "kind": "image",
-  "media": [
-   "tips/t27_travel.jpg"
-  ],
-  "caption": "Travel Tip #27 💡\nAkagera: Big Five safari inside Rwanda.\nDay trips and overnight stays from Kigali.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 28,
-  "date": "2026-11-16",
-  "kind": "image",
-  "media": [
-   "tips/t28_cyber.jpg"
-  ],
-  "caption": "Cyber Tip #28 💡\nRemove ex-employees' access the same day.\nOld accounts are a favourite entry point for attackers.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 29,
-  "date": "2026-11-17",
-  "kind": "image",
-  "media": [
-   "tips/t29_ship.jpg"
-  ],
-  "caption": "Trade Tip #29 💡\nPlan delivery from port to door in advance.\nTrucks and clearance agents book up fast.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 30,
-  "date": "2026-11-18",
-  "kind": "image",
-  "media": [
-   "tips/t30_travel.jpg"
-  ],
-  "caption": "Travel Tip #30 💡\nTravel insurance is not optional.\nMedical cover and evacuation give real peace of mind.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- }
+  {
+    "day": 1,
+    "date": "2026-10-20",
+    "kind": "image",
+    "media": [
+      "tips/t01_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #01 💡\nTurn on 2FA for your business email today.\nIt stops most account takeovers, even if your password leaks.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "posted",
+    "posted_ids": {
+      "facebook": "1396011640259694_122096080755521359",
+      "instagram": "17969254389174113",
+      "threads": "18127314080485823",
+      "x": "2112429850589892775"
+    }
+  },
+  {
+    "day": 2,
+    "date": "2026-10-21",
+    "kind": "image",
+    "media": [
+      "tips/t02_ship.jpg"
+    ],
+    "caption": "Trade Tip #02 💡\nAsk for the HS code before you pay your supplier.\nIt decides your duty. Knowing it early avoids surprises.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 3,
+    "date": "2026-10-22",
+    "kind": "image",
+    "media": [
+      "tips/t03_travel.jpg"
+    ],
+    "caption": "Travel Tip #03 💡\nGorilla trekking needs a permit booked in advance.\nPlan your trip around the permit date, not the other way round.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 4,
+    "date": "2026-10-23",
+    "kind": "image",
+    "media": [
+      "tips/t04_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #04 💡\nNever reuse your email password anywhere else.\nOne leaked site can unlock every account you own.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 5,
+    "date": "2026-10-24",
+    "kind": "image",
+    "media": [
+      "tips/t05_ship.jpg"
+    ],
+    "caption": "Trade Tip #05 💡\nKeep invoice, packing list and B/L identical.\nSmall mismatches are the No.1 reason cargo gets held.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 6,
+    "date": "2026-10-25",
+    "kind": "image",
+    "media": [
+      "tips/t06_travel.jpg"
+    ],
+    "caption": "Travel Tip #06 💡\nCarry your yellow fever certificate.\nMany East African borders ask for it on arrival.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 7,
+    "date": "2026-10-26",
+    "kind": "image",
+    "media": [
+      "tips/t07_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #07 💡\nUpdate your phone and laptop this week.\nUpdates close security holes that attackers already know.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 8,
+    "date": "2026-10-27",
+    "kind": "image",
+    "media": [
+      "tips/t08_ship.jpg"
+    ],
+    "caption": "Trade Tip #08 💡\nStart customs paperwork while goods are at sea.\nEvery day at the port adds storage fees.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 9,
+    "date": "2026-10-28",
+    "kind": "image",
+    "media": [
+      "tips/t09_travel.jpg"
+    ],
+    "caption": "Travel Tip #09 💡\nDry seasons: Jun–Sep and Dec–Feb.\nEasier trails, better wildlife viewing, clearer photos.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 10,
+    "date": "2026-10-29",
+    "kind": "image",
+    "media": [
+      "tips/t10_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #10 💡\nBanks never ask for your PIN by SMS or call.\nIf they do, it's a scam. Hang up and call the bank yourself.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 11,
+    "date": "2026-10-30",
+    "kind": "image",
+    "media": [
+      "tips/t11_ship.jpg"
+    ],
+    "caption": "Trade Tip #11 💡\nDeclare the true value of your goods.\nCustoms compares market prices. Under-declaring means fines.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 12,
+    "date": "2026-10-31",
+    "kind": "image",
+    "media": [
+      "tips/t12_travel.jpg"
+    ],
+    "caption": "Travel Tip #12 💡\nOne East Africa Tourist Visa = 3 countries.\nRwanda, Uganda and Kenya on a single visa.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 13,
+    "date": "2026-11-01",
+    "kind": "image",
+    "media": [
+      "tips/t13_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #13 💡\nBack up your files every week.\n3 copies, 2 types of storage, 1 kept offline.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 14,
+    "date": "2026-11-02",
+    "kind": "image",
+    "media": [
+      "tips/t14_ship.jpg"
+    ],
+    "caption": "Trade Tip #14 💡\nInsure your cargo, every time.\nCover costs little next to the value of your goods.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 15,
+    "date": "2026-11-03",
+    "kind": "image",
+    "media": [
+      "tips/t15_travel.jpg"
+    ],
+    "caption": "Travel Tip #15 💡\nPack neutral colours for safari.\nDark blue and black attract tsetse flies in the bush.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 16,
+    "date": "2026-11-04",
+    "kind": "image",
+    "media": [
+      "tips/t16_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #16 💡\nPublic Wi-Fi? Skip banking and logins.\nUse mobile data for anything sensitive.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 17,
+    "date": "2026-11-05",
+    "kind": "image",
+    "media": [
+      "tips/t17_ship.jpg"
+    ],
+    "caption": "Trade Tip #17 💡\nCheck if your product needs a permit first.\nFood, medicine and electronics often do.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 18,
+    "date": "2026-11-06",
+    "kind": "image",
+    "media": [
+      "tips/t18_travel.jpg"
+    ],
+    "caption": "Travel Tip #18 💡\nAsk before photographing people.\nRespect goes a long way, and it makes better photos.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 19,
+    "date": "2026-11-07",
+    "kind": "image",
+    "media": [
+      "tips/t19_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #19 💡\nLock your phone with a PIN, not just a swipe.\nA lost phone is an open door to your business accounts.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 20,
+    "date": "2026-11-08",
+    "kind": "image",
+    "media": [
+      "tips/t20_ship.jpg"
+    ],
+    "caption": "Trade Tip #20 💡\nCompare total landed cost, not freight only.\nThe cheapest freight quote is rarely the cheapest shipment.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 21,
+    "date": "2026-11-09",
+    "kind": "image",
+    "media": [
+      "tips/t21_travel.jpg"
+    ],
+    "caption": "Travel Tip #21 💡\nBook lodges early for July and August.\nPeak season fills up months in advance.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 22,
+    "date": "2026-11-10",
+    "kind": "image",
+    "media": [
+      "tips/t22_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #22 💡\nTrain your team to spot phishing.\nMost breaches start with one click on a fake email.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 23,
+    "date": "2026-11-11",
+    "kind": "image",
+    "media": [
+      "tips/t23_ship.jpg"
+    ],
+    "caption": "Trade Tip #23 💡\nAgree Incoterms in writing with your supplier.\nFOB, CIF or DAP decides who pays for what.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 24,
+    "date": "2026-11-12",
+    "kind": "image",
+    "media": [
+      "tips/t24_travel.jpg"
+    ],
+    "caption": "Travel Tip #24 💡\nLake Kivu is the perfect weekend escape.\nA few hours from Kigali: beaches, boats and sunsets.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 25,
+    "date": "2026-11-13",
+    "kind": "image",
+    "media": [
+      "tips/t25_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #25 💡\nUse a password manager.\nLong, unique passwords for every account, without memorising them.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 26,
+    "date": "2026-11-14",
+    "kind": "image",
+    "media": [
+      "tips/t26_ship.jpg"
+    ],
+    "caption": "Trade Tip #26 💡\nTrack your shipment at every step.\nKnow where your goods are before problems start.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 27,
+    "date": "2026-11-15",
+    "kind": "image",
+    "media": [
+      "tips/t27_travel.jpg"
+    ],
+    "caption": "Travel Tip #27 💡\nAkagera: Big Five safari inside Rwanda.\nDay trips and overnight stays from Kigali.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 28,
+    "date": "2026-11-16",
+    "kind": "image",
+    "media": [
+      "tips/t28_cyber.jpg"
+    ],
+    "caption": "Cyber Tip #28 💡\nRemove ex-employees' access the same day.\nOld accounts are a favourite entry point for attackers.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 29,
+    "date": "2026-11-17",
+    "kind": "image",
+    "media": [
+      "tips/t29_ship.jpg"
+    ],
+    "caption": "Trade Tip #29 💡\nPlan delivery from port to door in advance.\nTrucks and clearance agents book up fast.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 30,
+    "date": "2026-11-18",
+    "kind": "image",
+    "media": [
+      "tips/t30_travel.jpg"
+    ],
+    "caption": "Travel Tip #30 💡\nTravel insurance is not optional.\nMedical cover and evacuation give real peace of mind.\n\nFollow EVA Global Solution for a new tip every morning.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  }
 ]
