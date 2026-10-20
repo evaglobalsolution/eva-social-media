@@ -1,385 +1,395 @@
 [
- {
-  "day": 1,
-  "date": "2026-10-20",
-  "title": "إعلان الشحن العربي (قصة سهيل)",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Shipping_Ad_Arabic.mp4"
-  ],
-  "caption": "طلبت سعر شحن في القروب… وبعدها؟ 📦\nشحنة واقفة في الميناء ورسوم تخزين كل يوم.\nمع EVA: سعر واضح من البداية وتخليص صحيح.\nwww.evaglobalsolution.com\n\n#شحن #استيراد #تخليص_جمركي #رواندا #أوغندا #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 2,
-  "date": "2026-10-21",
-  "title": "5 علامات أن بريد شركتك مخترق",
-  "kind": "carousel",
-  "media": [
-   "images/p02_email_01.jpg",
-   "images/p02_email_02.jpg",
-   "images/p02_email_03.jpg",
-   "images/p02_email_04.jpg",
-   "images/p02_email_05.jpg",
-   "images/p02_email_06.jpg",
-   "images/p02_email_07.jpg"
-  ],
-  "caption": "Your business email might already be hacked 👀\nSwipe for 5 warning signs most owners miss. Save this post and check your inbox today.\nWant us to check your setup? Free for Kigali businesses.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 3,
-  "date": "2026-10-22",
-  "title": "السفر والسفاري: 6 وجهات",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Travel_Safari.mp4"
-  ],
-  "caption": "6 places in East Africa you must see 🦁🦍\nGorillas, the Big Five, the Nile and Zanzibar. Which one is first on your list? 👇\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 4,
-  "date": "2026-10-23",
-  "title": "من نحن: EVA في 3 أسطر",
-  "kind": "image",
-  "media": [
-   "images/p04_intro.jpg"
-  ],
-  "caption": "Hi, we're EVA Global Solution 👋\nA Kigali company helping businesses stay secure online, import without surprises, and travel East Africa with ease.\nFollow for weekly tips.\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
-  "status": "posted"
- },
- {
-  "day": 5,
-  "date": "2026-10-24",
-  "title": "3 رسائل احتيال منتشرة الآن",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Script_1.mp4"
-  ],
-  "caption": "3 scam messages going around right now 🚨\nFake MoMo refund, fake delivery fee, fake account suspension. Share this with someone who needs it.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 6,
-  "date": "2026-10-25",
-  "title": "نصيحة: احجز تصريح الغوريلا مبكراً",
-  "kind": "image",
-  "media": [
-   "images/p06_permit.jpg"
-  ],
-  "caption": "Planning to see the gorillas? 🦍\nPermits sell out months ahead, especially June to September. Book early, then plan the rest.\nWe handle permits, lodges and transport.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 7,
-  "date": "2026-10-26",
-  "title": "FOB أم CIF أم DAP؟",
-  "kind": "carousel",
-  "media": [
-   "images/p07_incoterms_01.jpg",
-   "images/p07_incoterms_02.jpg",
-   "images/p07_incoterms_03.jpg",
-   "images/p07_incoterms_04.jpg",
-   "images/p07_incoterms_05.jpg",
-   "images/p07_incoterms_06.jpg"
-  ],
-  "caption": "FOB, CIF or DAP? 🤝\nThis one choice decides who pays for freight, insurance and risk. Swipe for the 60-second version.\nSave it for your next order.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 8,
-  "date": "2026-10-27",
-  "title": "التكاليف المخفية للاستيراد (إعادة نشر)",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Hidden_Import_Costs.mp4"
-  ],
-  "caption": "Your supplier's price is NOT what you'll really pay 💸\n5 hidden costs of importing to East Africa. Know your landed cost before you pay.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending",
-  "youtube": "hxnorw00TKs",
-  "tiktok": "sent"
- },
- {
-  "day": 9,
-  "date": "2026-10-28",
-  "title": "هل موقعك آمن؟ فحص ذاتي من 6 نقاط",
-  "kind": "carousel",
-  "media": [
-   "images/p09_webcheck_01.jpg",
-   "images/p09_webcheck_02.jpg",
-   "images/p09_webcheck_03.jpg",
-   "images/p09_webcheck_04.jpg",
-   "images/p09_webcheck_05.jpg",
-   "images/p09_webcheck_06.jpg",
-   "images/p09_webcheck_07.jpg",
-   "images/p09_webcheck_08.jpg"
-  ],
-  "caption": "Is your business website safe? 🔐\n6 quick checks you can do in 5 minutes. Failed one? Send us your link for a free security check.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 10,
-  "date": "2026-10-29",
-  "title": "من الصين إلى كيغالي: كم تستغرق الشحنة؟",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Script_2.mp4"
-  ],
-  "caption": "How long does shipping from China to Kigali really take? 🚢✈️\nSea vs air, the port, the road, and clearance. Plan with the full timeline, not the sea time only.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 11,
-  "date": "2026-10-30",
-  "title": "تأشيرة شرق أفريقيا السياحية",
-  "kind": "image",
-  "media": [
-   "images/p11_visa.jpg"
-  ],
-  "caption": "3 countries, 1 visa 🛂\nThe East Africa Tourist Visa covers Rwanda, Uganda and Kenya. Perfect for a gorilla + safari combo trip.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 12,
-  "date": "2026-10-31",
-  "title": "لماذا أسست EVA؟",
-  "kind": "image",
-  "media": [
-   "images/p12_why.jpg"
-  ],
-  "caption": "Why I started EVA 🧵\nI kept seeing the same three problems in East Africa: businesses hacked with no one to call, importers shocked by hidden costs, and travellers lost in planning.\nSo we built one company to fix all three. — Gadelseed\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 13,
-  "date": "2026-11-01",
-  "title": "7 نصائح للأمن السيبراني (بوجهك)",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Cyber_Security_Tips.mp4"
-  ],
-  "caption": "7 cybersecurity habits every business needs 🔐\nFrom passwords to backups to training your team. Watch, then share with your team.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 14,
-  "date": "2026-11-02",
-  "title": "أخطاء رمز HS التي تكلف المستوردين",
-  "kind": "carousel",
-  "media": [
-   "images/p14_hs_01.jpg",
-   "images/p14_hs_02.jpg",
-   "images/p14_hs_03.jpg",
-   "images/p14_hs_04.jpg",
-   "images/p14_hs_05.jpg",
-   "images/p14_hs_06.jpg"
-  ],
-  "caption": "One wrong number = higher duty 🔢\nThe HS code decides what you pay at customs. Swipe for the mistakes we see most.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 15,
-  "date": "2026-11-03",
-  "title": "حسابك على واتساب للأعمال يُسرق في 30 ثانية",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Script_3.mp4"
-  ],
-  "caption": "Your WhatsApp Business can be stolen in 30 seconds 📱\nOne code is all a scammer needs. Turn on two-step verification today. Here's how.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 16,
-  "date": "2026-11-04",
-  "title": "أكاغيرا: سفاري الخمسة الكبار داخل رواندا",
-  "kind": "image",
-  "media": [
-   "images/p16_akagera.jpg"
-  ],
-  "caption": "You don't need to leave Rwanda for a Big Five safari 🦁\nAkagera is a short drive from Kigali. Day trips and overnight stays available.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 17,
-  "date": "2026-11-05",
-  "title": "6 أسئلة قبل ما تشحن من الصين (عربي)",
-  "kind": "carousel",
-  "media": [
-   "images/p17_ar6_01.jpg",
-   "images/p17_ar6_02.jpg",
-   "images/p17_ar6_03.jpg",
-   "images/p17_ar6_04.jpg",
-   "images/p17_ar6_05.jpg",
-   "images/p17_ar6_06.jpg",
-   "images/p17_ar6_07.jpg",
-   "images/p17_ar6_08.jpg"
-  ],
-  "caption": "قبل ما تشحن من الصين 🇨🇳➡️🇷🇼\n6 أسئلة لازم تسألها لوكيل الشحن قبل ما تدفع. احفظ المنشور وشاركه مع تاجر تعرفه.\nwww.evaglobalsolution.com\n\n#شحن #استيراد #تخليص_جمركي #رواندا #أوغندا #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 18,
-  "date": "2026-11-06",
-  "title": "ما الذي يمنعك من الاستيراد؟",
-  "kind": "image",
-  "media": [
-   "images/p18_poll.jpg"
-  ],
-  "caption": "Quick question for business owners 👇\nWhat stops you from importing more?\n1) Hidden costs 2) Customs paperwork 3) Finding suppliers 4) Delivery time\nVote and we'll answer the top one next week.\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 19,
-  "date": "2026-11-07",
-  "title": "عطلة نهاية أسبوع في بحيرة كيفو",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Script_4.mp4"
-  ],
-  "caption": "48 hours from Kigali to Lake Kivu 🌅\nBeaches, boat rides and island sunsets. A weekend escape most visitors miss.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 20,
-  "date": "2026-11-08",
-  "title": "قاعدة النسخ الاحتياطي 3-2-1",
-  "kind": "image",
-  "media": [
-   "images/p20_backup.jpg"
-  ],
-  "caption": "3 copies. 2 types of storage. 1 offline 💾\nThe 3-2-1 backup rule saves businesses from ransomware. Do you follow it?\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 21,
-  "date": "2026-11-09",
-  "title": "الشحن والجمارك: 6 قواعد",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Shipping_Customs.mp4"
-  ],
-  "caption": "6 rules every importer should know 🚢\nDocuments, HS codes, true value, permits, Incoterms and insurance. Watch before your next order.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 22,
-  "date": "2026-11-10",
-  "title": "الفنادق: 5 مخاطر سيبرانية لا يراها الضيوف",
-  "kind": "carousel",
-  "media": [
-   "images/p22_hotels_01.jpg",
-   "images/p22_hotels_02.jpg",
-   "images/p22_hotels_03.jpg",
-   "images/p22_hotels_04.jpg",
-   "images/p22_hotels_05.jpg",
-   "images/p22_hotels_06.jpg",
-   "images/p22_hotels_07.jpg"
-  ],
-  "caption": "Hotel owners in Rwanda 🏨\n5 cyber risks guests never see, from guest Wi-Fi to booking systems. Free security check for hotels this month.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 23,
-  "date": "2026-11-11",
-  "title": "احسب التكلفة الكاملة قبل الدفع للمورد",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Script_5.mp4"
-  ],
-  "caption": "Before you pay your supplier, do this 🧮\nPrice + freight + duty + VAT + port + clearing = your real cost. Send us your product, we'll calculate it.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 24,
-  "date": "2026-11-12",
-  "title": "أفضل أشهر لرحلة الغوريلا",
-  "kind": "image",
-  "media": [
-   "images/p24_season.jpg"
-  ],
-  "caption": "When is the best time to trek gorillas? 🦍\nDry seasons: June to September and December to February. Trails are easier and views clearer.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 25,
-  "date": "2026-11-13",
-  "title": "تعرّف على المؤسس",
-  "kind": "image",
-  "media": [
-   "images/p25_founder.jpg"
-  ],
-  "caption": "Meet the founder 👋\nI'm Gadelseed, a cybersecurity and ICT consultant based in Kigali. EVA is how we help businesses grow safely across East Africa. Ask me anything below.\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 26,
-  "date": "2026-11-14",
-  "title": "كلمة مرور أم عبارة مرور؟",
-  "kind": "carousel",
-  "media": [
-   "images/p26_pass_01.jpg",
-   "images/p26_pass_02.jpg",
-   "images/p26_pass_03.jpg",
-   "images/p26_pass_04.jpg",
-   "images/p26_pass_05.jpg",
-   "images/p26_pass_06.jpg",
-   "images/p26_pass_07.jpg"
-  ],
-  "caption": "Password vs passphrase 🔑\nLonger beats complex. Swipe to see why \"Kigali coffee rain 2026\" beats \"K@g!1\".\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 27,
-  "date": "2026-11-15",
-  "title": "5 أخطاء تعلّق الشحنة (عربي)",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Customs_Mistakes.mp4"
-  ],
-  "caption": "5 أخطاء تخلّي شحنتك عالقة في الجمارك 🚫📦\nأي واحد كلّفك فلوس قبل كده؟ 👇\nwww.evaglobalsolution.com\n\n#شحن #استيراد #تخليص_جمركي #رواندا #أوغندا #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 28,
-  "date": "2026-11-16",
-  "title": "مومباسا أم دار السلام؟",
-  "kind": "carousel",
-  "media": [
-   "images/p28_ports_01.jpg",
-   "images/p28_ports_02.jpg",
-   "images/p28_ports_03.jpg",
-   "images/p28_ports_04.jpg",
-   "images/p28_ports_05.jpg",
-   "images/p28_ports_06.jpg"
-  ],
-  "caption": "Mombasa or Dar es Salaam? ⚓\nThe two main routes into Rwanda and Uganda. Swipe for how to choose for your cargo.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 29,
-  "date": "2026-11-17",
-  "title": "فحص أمني مجاني: ماذا نفحص؟",
-  "kind": "video",
-  "media": [
-   "videos/EVA_Script_6.mp4"
-  ],
-  "caption": "Free website security check for businesses in Kigali 🔍\nWe check HTTPS, outdated software, exposed admin pages and email spoofing. Send us your link.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-  "status": "pending"
- },
- {
-  "day": 30,
-  "date": "2026-11-18",
-  "title": "30 يوماً، 30 نصيحة: احفظ هذا",
-  "kind": "carousel",
-  "media": [
-   "images/p30_recap_01.jpg",
-   "images/p30_recap_02.jpg",
-   "images/p30_recap_03.jpg",
-   "images/p30_recap_04.jpg",
-   "images/p30_recap_05.jpg"
-  ],
-  "caption": "30 days, 30 tips 📌\nThe best of our cybersecurity, shipping and travel advice in one post. Save it. What should we cover next?\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
-  "status": "pending"
- }
+  {
+    "day": 1,
+    "date": "2026-10-20",
+    "title": "إعلان الشحن العربي (قصة سهيل)",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Shipping_Ad_Arabic.mp4"
+    ],
+    "caption": "طلبت سعر شحن في القروب… وبعدها؟ 📦\nشحنة واقفة في الميناء ورسوم تخزين كل يوم.\nمع EVA: سعر واضح من البداية وتخليص صحيح.\nwww.evaglobalsolution.com\n\n#شحن #استيراد #تخليص_جمركي #رواندا #أوغندا #EVAGlobal",
+    "status": "posted",
+    "youtube": "etDFLA6MQgk",
+    "tiktok": "sent",
+    "posted_ids": {
+      "facebook": "1086068500727460",
+      "instagram": "18013529282764123",
+      "youtube": "https://www.youtube.com/watch?v=etDFLA6MQgk",
+      "tiktok": "buffer:6ad795dee2c8d3bcf5098d97",
+      "threads": "buffer:6ad7960d528bf1323203ea95",
+      "x": "buffer:6ad7962bab6763f9a606502b"
+    }
+  },
+  {
+    "day": 2,
+    "date": "2026-10-21",
+    "title": "5 علامات أن بريد شركتك مخترق",
+    "kind": "carousel",
+    "media": [
+      "images/p02_email_01.jpg",
+      "images/p02_email_02.jpg",
+      "images/p02_email_03.jpg",
+      "images/p02_email_04.jpg",
+      "images/p02_email_05.jpg",
+      "images/p02_email_06.jpg",
+      "images/p02_email_07.jpg"
+    ],
+    "caption": "Your business email might already be hacked 👀\nSwipe for 5 warning signs most owners miss. Save this post and check your inbox today.\nWant us to check your setup? Free for Kigali businesses.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 3,
+    "date": "2026-10-22",
+    "title": "السفر والسفاري: 6 وجهات",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Travel_Safari.mp4"
+    ],
+    "caption": "6 places in East Africa you must see 🦁🦍\nGorillas, the Big Five, the Nile and Zanzibar. Which one is first on your list? 👇\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 4,
+    "date": "2026-10-23",
+    "title": "من نحن: EVA في 3 أسطر",
+    "kind": "image",
+    "media": [
+      "images/p04_intro.jpg"
+    ],
+    "caption": "Hi, we're EVA Global Solution 👋\nA Kigali company helping businesses stay secure online, import without surprises, and travel East Africa with ease.\nFollow for weekly tips.\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
+    "status": "posted"
+  },
+  {
+    "day": 5,
+    "date": "2026-10-24",
+    "title": "3 رسائل احتيال منتشرة الآن",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Script_1.mp4"
+    ],
+    "caption": "3 scam messages going around right now 🚨\nFake MoMo refund, fake delivery fee, fake account suspension. Share this with someone who needs it.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 6,
+    "date": "2026-10-25",
+    "title": "نصيحة: احجز تصريح الغوريلا مبكراً",
+    "kind": "image",
+    "media": [
+      "images/p06_permit.jpg"
+    ],
+    "caption": "Planning to see the gorillas? 🦍\nPermits sell out months ahead, especially June to September. Book early, then plan the rest.\nWe handle permits, lodges and transport.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 7,
+    "date": "2026-10-26",
+    "title": "FOB أم CIF أم DAP؟",
+    "kind": "carousel",
+    "media": [
+      "images/p07_incoterms_01.jpg",
+      "images/p07_incoterms_02.jpg",
+      "images/p07_incoterms_03.jpg",
+      "images/p07_incoterms_04.jpg",
+      "images/p07_incoterms_05.jpg",
+      "images/p07_incoterms_06.jpg"
+    ],
+    "caption": "FOB, CIF or DAP? 🤝\nThis one choice decides who pays for freight, insurance and risk. Swipe for the 60-second version.\nSave it for your next order.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 8,
+    "date": "2026-10-27",
+    "title": "التكاليف المخفية للاستيراد (إعادة نشر)",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Hidden_Import_Costs.mp4"
+    ],
+    "caption": "Your supplier's price is NOT what you'll really pay 💸\n5 hidden costs of importing to East Africa. Know your landed cost before you pay.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending",
+    "youtube": "hxnorw00TKs",
+    "tiktok": "sent"
+  },
+  {
+    "day": 9,
+    "date": "2026-10-28",
+    "title": "هل موقعك آمن؟ فحص ذاتي من 6 نقاط",
+    "kind": "carousel",
+    "media": [
+      "images/p09_webcheck_01.jpg",
+      "images/p09_webcheck_02.jpg",
+      "images/p09_webcheck_03.jpg",
+      "images/p09_webcheck_04.jpg",
+      "images/p09_webcheck_05.jpg",
+      "images/p09_webcheck_06.jpg",
+      "images/p09_webcheck_07.jpg",
+      "images/p09_webcheck_08.jpg"
+    ],
+    "caption": "Is your business website safe? 🔐\n6 quick checks you can do in 5 minutes. Failed one? Send us your link for a free security check.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 10,
+    "date": "2026-10-29",
+    "title": "من الصين إلى كيغالي: كم تستغرق الشحنة؟",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Script_2.mp4"
+    ],
+    "caption": "How long does shipping from China to Kigali really take? 🚢✈️\nSea vs air, the port, the road, and clearance. Plan with the full timeline, not the sea time only.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 11,
+    "date": "2026-10-30",
+    "title": "تأشيرة شرق أفريقيا السياحية",
+    "kind": "image",
+    "media": [
+      "images/p11_visa.jpg"
+    ],
+    "caption": "3 countries, 1 visa 🛂\nThe East Africa Tourist Visa covers Rwanda, Uganda and Kenya. Perfect for a gorilla + safari combo trip.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 12,
+    "date": "2026-10-31",
+    "title": "لماذا أسست EVA؟",
+    "kind": "image",
+    "media": [
+      "images/p12_why.jpg"
+    ],
+    "caption": "Why I started EVA 🧵\nI kept seeing the same three problems in East Africa: businesses hacked with no one to call, importers shocked by hidden costs, and travellers lost in planning.\nSo we built one company to fix all three. — Gadelseed\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 13,
+    "date": "2026-11-01",
+    "title": "7 نصائح للأمن السيبراني (بوجهك)",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Cyber_Security_Tips.mp4"
+    ],
+    "caption": "7 cybersecurity habits every business needs 🔐\nFrom passwords to backups to training your team. Watch, then share with your team.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 14,
+    "date": "2026-11-02",
+    "title": "أخطاء رمز HS التي تكلف المستوردين",
+    "kind": "carousel",
+    "media": [
+      "images/p14_hs_01.jpg",
+      "images/p14_hs_02.jpg",
+      "images/p14_hs_03.jpg",
+      "images/p14_hs_04.jpg",
+      "images/p14_hs_05.jpg",
+      "images/p14_hs_06.jpg"
+    ],
+    "caption": "One wrong number = higher duty 🔢\nThe HS code decides what you pay at customs. Swipe for the mistakes we see most.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 15,
+    "date": "2026-11-03",
+    "title": "حسابك على واتساب للأعمال يُسرق في 30 ثانية",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Script_3.mp4"
+    ],
+    "caption": "Your WhatsApp Business can be stolen in 30 seconds 📱\nOne code is all a scammer needs. Turn on two-step verification today. Here's how.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 16,
+    "date": "2026-11-04",
+    "title": "أكاغيرا: سفاري الخمسة الكبار داخل رواندا",
+    "kind": "image",
+    "media": [
+      "images/p16_akagera.jpg"
+    ],
+    "caption": "You don't need to leave Rwanda for a Big Five safari 🦁\nAkagera is a short drive from Kigali. Day trips and overnight stays available.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 17,
+    "date": "2026-11-05",
+    "title": "6 أسئلة قبل ما تشحن من الصين (عربي)",
+    "kind": "carousel",
+    "media": [
+      "images/p17_ar6_01.jpg",
+      "images/p17_ar6_02.jpg",
+      "images/p17_ar6_03.jpg",
+      "images/p17_ar6_04.jpg",
+      "images/p17_ar6_05.jpg",
+      "images/p17_ar6_06.jpg",
+      "images/p17_ar6_07.jpg",
+      "images/p17_ar6_08.jpg"
+    ],
+    "caption": "قبل ما تشحن من الصين 🇨🇳➡️🇷🇼\n6 أسئلة لازم تسألها لوكيل الشحن قبل ما تدفع. احفظ المنشور وشاركه مع تاجر تعرفه.\nwww.evaglobalsolution.com\n\n#شحن #استيراد #تخليص_جمركي #رواندا #أوغندا #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 18,
+    "date": "2026-11-06",
+    "title": "ما الذي يمنعك من الاستيراد؟",
+    "kind": "image",
+    "media": [
+      "images/p18_poll.jpg"
+    ],
+    "caption": "Quick question for business owners 👇\nWhat stops you from importing more?\n1) Hidden costs 2) Customs paperwork 3) Finding suppliers 4) Delivery time\nVote and we'll answer the top one next week.\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 19,
+    "date": "2026-11-07",
+    "title": "عطلة نهاية أسبوع في بحيرة كيفو",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Script_4.mp4"
+    ],
+    "caption": "48 hours from Kigali to Lake Kivu 🌅\nBeaches, boat rides and island sunsets. A weekend escape most visitors miss.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 20,
+    "date": "2026-11-08",
+    "title": "قاعدة النسخ الاحتياطي 3-2-1",
+    "kind": "image",
+    "media": [
+      "images/p20_backup.jpg"
+    ],
+    "caption": "3 copies. 2 types of storage. 1 offline 💾\nThe 3-2-1 backup rule saves businesses from ransomware. Do you follow it?\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 21,
+    "date": "2026-11-09",
+    "title": "الشحن والجمارك: 6 قواعد",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Shipping_Customs.mp4"
+    ],
+    "caption": "6 rules every importer should know 🚢\nDocuments, HS codes, true value, permits, Incoterms and insurance. Watch before your next order.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 22,
+    "date": "2026-11-10",
+    "title": "الفنادق: 5 مخاطر سيبرانية لا يراها الضيوف",
+    "kind": "carousel",
+    "media": [
+      "images/p22_hotels_01.jpg",
+      "images/p22_hotels_02.jpg",
+      "images/p22_hotels_03.jpg",
+      "images/p22_hotels_04.jpg",
+      "images/p22_hotels_05.jpg",
+      "images/p22_hotels_06.jpg",
+      "images/p22_hotels_07.jpg"
+    ],
+    "caption": "Hotel owners in Rwanda 🏨\n5 cyber risks guests never see, from guest Wi-Fi to booking systems. Free security check for hotels this month.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 23,
+    "date": "2026-11-11",
+    "title": "احسب التكلفة الكاملة قبل الدفع للمورد",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Script_5.mp4"
+    ],
+    "caption": "Before you pay your supplier, do this 🧮\nPrice + freight + duty + VAT + port + clearing = your real cost. Send us your product, we'll calculate it.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 24,
+    "date": "2026-11-12",
+    "title": "أفضل أشهر لرحلة الغوريلا",
+    "kind": "image",
+    "media": [
+      "images/p24_season.jpg"
+    ],
+    "caption": "When is the best time to trek gorillas? 🦍\nDry seasons: June to September and December to February. Trails are easier and views clearer.\nwww.evaglobalsolution.com\n\n#Safari #VisitRwanda #ExploreUganda #EastAfrica #Travel #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 25,
+    "date": "2026-11-13",
+    "title": "تعرّف على المؤسس",
+    "kind": "image",
+    "media": [
+      "images/p25_founder.jpg"
+    ],
+    "caption": "Meet the founder 👋\nI'm Gadelseed, a cybersecurity and ICT consultant based in Kigali. EVA is how we help businesses grow safely across East Africa. Ask me anything below.\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 26,
+    "date": "2026-11-14",
+    "title": "كلمة مرور أم عبارة مرور؟",
+    "kind": "carousel",
+    "media": [
+      "images/p26_pass_01.jpg",
+      "images/p26_pass_02.jpg",
+      "images/p26_pass_03.jpg",
+      "images/p26_pass_04.jpg",
+      "images/p26_pass_05.jpg",
+      "images/p26_pass_06.jpg",
+      "images/p26_pass_07.jpg"
+    ],
+    "caption": "Password vs passphrase 🔑\nLonger beats complex. Swipe to see why \"Kigali coffee rain 2026\" beats \"K@g!1\".\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 27,
+    "date": "2026-11-15",
+    "title": "5 أخطاء تعلّق الشحنة (عربي)",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Customs_Mistakes.mp4"
+    ],
+    "caption": "5 أخطاء تخلّي شحنتك عالقة في الجمارك 🚫📦\nأي واحد كلّفك فلوس قبل كده؟ 👇\nwww.evaglobalsolution.com\n\n#شحن #استيراد #تخليص_جمركي #رواندا #أوغندا #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 28,
+    "date": "2026-11-16",
+    "title": "مومباسا أم دار السلام؟",
+    "kind": "carousel",
+    "media": [
+      "images/p28_ports_01.jpg",
+      "images/p28_ports_02.jpg",
+      "images/p28_ports_03.jpg",
+      "images/p28_ports_04.jpg",
+      "images/p28_ports_05.jpg",
+      "images/p28_ports_06.jpg"
+    ],
+    "caption": "Mombasa or Dar es Salaam? ⚓\nThe two main routes into Rwanda and Uganda. Swipe for how to choose for your cargo.\nwww.evaglobalsolution.com\n\n#Shipping #Import #Customs #Logistics #Rwanda #Uganda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 29,
+    "date": "2026-11-17",
+    "title": "فحص أمني مجاني: ماذا نفحص؟",
+    "kind": "video",
+    "media": [
+      "videos/EVA_Script_6.mp4"
+    ],
+    "caption": "Free website security check for businesses in Kigali 🔍\nWe check HTTPS, outdated software, exposed admin pages and email spoofing. Send us your link.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
+    "status": "pending"
+  },
+  {
+    "day": 30,
+    "date": "2026-11-18",
+    "title": "30 يوماً، 30 نصيحة: احفظ هذا",
+    "kind": "carousel",
+    "media": [
+      "images/p30_recap_01.jpg",
+      "images/p30_recap_02.jpg",
+      "images/p30_recap_03.jpg",
+      "images/p30_recap_04.jpg",
+      "images/p30_recap_05.jpg"
+    ],
+    "caption": "30 days, 30 tips 📌\nThe best of our cybersecurity, shipping and travel advice in one post. Save it. What should we cover next?\nwww.evaglobalsolution.com\n\n#Kigali #Rwanda #SmallBusiness #Entrepreneur #EastAfrica #EVAGlobal",
+    "status": "pending"
+  }
 ]
