@@ -35,7 +35,13 @@
       "images/p02_email_07.jpg"
     ],
     "caption": "Your business email might already be hacked 👀\nSwipe for 5 warning signs most owners miss. Save this post and check your inbox today.\nWant us to check your setup? Free for Kigali businesses.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-    "status": "pending"
+    "status": "posted",
+    "posted_ids": {
+      "facebook": "1396011640259694_122098984947521359",
+      "instagram": "18042229652835933",
+      "threads": "https://www.threads.com/@evaglobalsolution/post/De1_AARINcx",
+      "x": "https://twitter.com/EVA_GlobalSol/status/2113668538762207615"
+    }
   },
   {
     "day": 3,
