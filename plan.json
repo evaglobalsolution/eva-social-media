@@ -161,7 +161,13 @@
       "images/p09_webcheck_08.jpg"
     ],
     "caption": "Is your business website safe? 🔐\n6 quick checks you can do in 5 minutes. Failed one? Send us your link for a free security check.\nwww.evaglobalsolution.com\n\n#Cybersecurity #InfoSec #SmallBusiness #Kigali #Rwanda #EVAGlobal",
-    "status": "pending"
+    "status": "posted",
+    "posted_ids": {
+      "facebook": "1396011640259694_122103821949521359",
+      "instagram": "18099637028440213",
+      "threads": "https://www.threads.com/@evaglobalsolution/post/DfC2612lHJc",
+      "x": "https://twitter.com/EVA_GlobalSol/status/2115480328156402124"
+    }
   },
   {
     "day": 10,
